@@ -1,14 +1,21 @@
 # 42 Adelaide Discord Bot
 ## Installation
-### Devlopment
+### Development
 ```bash
 git clone git@github.com:BenjaminLee-boop/42adl-discord-bot.git
 cd 42adl-discord-bot
-npm install
-npm run production
+yarn install
+yarn dev
 ```
-# Contributing
 
+### Development
+```bash
+git clone git@github.com:BenjaminLee-boop/42adl-discord-bot.git
+cd 42adl-discord-bot
+yarn install
+yarn production
+```
 
+### Contributing
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
