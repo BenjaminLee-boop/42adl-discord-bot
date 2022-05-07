@@ -1,0 +1,18 @@
+{
+  "name": "42adl-discord-bot",
+  "version": "0.0.1",
+  "description": "Discord bot for the 42 Adelaide student discord",
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {
+    "commit": "cz"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
